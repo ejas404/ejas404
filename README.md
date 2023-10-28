@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ejas404&label=Profile%20views&color=0e75b6&style=flat" alt="ejas404" /> </p>
 
-- 🔭 I’m currently working on [An e commerce store](https://github.com/ejas404/pawsNclaws)
+- 🔭 I’m currently working on Angular project
 
 - 🌱 I’m currently learning **Angular & TypeScript**
 
