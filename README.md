@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular & TypeScript**
 
-- 💬 Ask me about **NodeJS , Express**
+- 💬 Ask me about **NodeJS , Express,Angular**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
