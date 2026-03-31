@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Ejas M S</h1>
-<h3 align="center">An aspiring MEAN Stack developer</h3>
+<h3 align="center">Backend Engineer | DevOps | Full Stack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ejas404&label=Profile%20views&color=0e75b6&style=flat" alt="ejas404" /> </p>
 
