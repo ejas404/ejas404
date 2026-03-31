@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ejas404&label=Profile%20views&color=0e75b6&style=flat" alt="ejas404" /> </p>
 
-- 🔭 I’m currently working on Angular project
-
-- 🌱 I’m currently learning **Angular & TypeScript**
-
-- 💬 Ask me about **NodeJS , Express,Angular**
+▸ Backend & DevOps Engineer at ELT Global
+▸ Exploring AI and modern development practices
+▸ Open to discussions on backend systems and full stack development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
